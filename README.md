@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibraheem Farooq</h1>
-<h3 align="center">An aspiring AI/ML Engineering from Pakistan</h3>
+<h3 align="center">An aspiring AI/ML Engineering from 🇵🇰</h3>
 
-- 🔭 I’m currently working on **A Discord Bot for my class**
+- 🔭 I’m currently working on **CS50-AI course form Harvard**
 
 - 🌱 I’m currently learning **Python, C++ and Web Development**
 
